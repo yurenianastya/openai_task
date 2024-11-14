@@ -45,3 +45,6 @@ A Python application that uses OpenAI's API to generate HTML markups based on a 
     python main.py
     ```
     If everything goes well, you can find the script's output in ```artykul.html```
+
+---
+ PS - you can copy paste ```artykul.html``` into ```<body>``` section of ```szablon.html``` for easy viewing. Check the ```podglad.html``` for example

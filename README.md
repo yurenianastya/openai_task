@@ -36,7 +36,8 @@ A Python application that uses OpenAI's API to generate HTML markups based on a 
 
 ## Usage
 
-2. Once you have the environment set up, add your text file with the article to the project. Rename it to ```input.txt``` or change in ```main.py``` the ```input_file``` value to your desire
+1. Once you have the environment set up, you are ready to go. The script uses ```artykul.txt``` file automatically.
+ If you want to use another txt file, change in ```main.py``` the ```input_file``` value to your desire
 
 2. Run the main script:
 
